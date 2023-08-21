@@ -1,0 +1,138 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-guide-privacy-policy",
+	  "email_feedback_and_report": "yourmail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips Pinjaman Online Cepat Cair",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Tips Pinjaman Online Cepat Cair",
+      "title": "Cara Mengenali Pinjol yang Aman dan Legal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F1%20Cara%20Mengenali%20Pinjol%20yang%20Aman%20dan%20Legal.html?alt=media&token=50e8dcc8-2531-440e-99b7-083b720785f8",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Tips Pinjaman Online Cepat Cair",
+      "title": "Tips Memilih Pinjol Bunga Rendah Terbaik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F2%20Tips%20Memilih%20Pinjol%20Bunga%20Rendah%20Terbaik.html?alt=media&token=598ea6ab-e926-46ec-b5ea-8d64c2288c75",
+      "video": ""
+    },{
+      "id": 3,
+      "category": "Tips Pinjaman Online Cepat Cair",
+      "title": "Tips Pinjol Galbay",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F3%20Tips%20Pinjol%20Galbay.html?alt=media&token=0b5c23b9-02cc-47ef-b61b-24cbbc3e6448",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Tips Pinjaman Online Cepat Cair",
+      "title": "Pinjaman Online Tenor 1 Bulan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F4%20Pinjaman%20Online%20Tenor%201%20Bulan.html?alt=media&token=ac4dbcb2-bae6-4e0d-8211-47c57f16f514",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Tips Pinjaman Online Cepat Cair",
+      "title": "Tips Pinjaman Online Tenor 7 Hari",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F5%20Tips%20Pinjaman%20Online%20Tenor%207%20Hari.html?alt=media&token=d85722b4-ddf9-4439-9e13-16300c2d17f8",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Tips Pinjaman Online Cepat Cair",
+      "title": "Pinjaman Tunai Aman di Indonesia",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F6%20Pinjaman%20Tunai%20Aman%20di%20Indonesia.html?alt=media&token=7cc9a157-5ae9-495f-975c-0191aed73958",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Tips Pinjaman Online Cepat Cair",
+      "title": "Daftar Lender Pinjaman Online Terpercaya di Indonesia",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F7%20Daftar%20Lender%20Pinjaman%20Online%20Terpercaya%20di%20Indonesia.html?alt=media&token=0c7bb384-a947-4427-8ab4-88c6b538be45",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Tips Pinjaman Online Cepat Cair",
+      "title": "Daftar Lender Pinjaman Online Tenor Panjang di Indonesia",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F8%20Daftar%20Lender%20Pinjaman%20Online%20Tenor%20Panjang%20di%20Indonesia.html?alt=media&token=28ddcb81-6ea8-4af8-a9b5-fbc3e4f50b56",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
