@@ -72,22 +72,22 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b"
     }
   ],
-  "posts": [
+  "posts": [{
+      "id": 1,
+      "category": "Tips Pinjaman Online Cepat Cair",
+      "title": "Tentang Aplikasi DanaMu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F9%20aplikasi%20danamu.html?alt=media&token=c118931c-56f1-424e-aa53-4a48d371b8d8",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Tips Pinjaman Online Cepat Cair",
+      "title": "Cara Daftar Aplikasi DanaMu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F10%20cara%20daftar%20danamu.html?alt=media&token=0bc381b0-824b-4462-9a0f-8da66394efa7",
+      "video": ""
+    },
     {
-      "id": 9,
-      "category": "Tips Pinjaman Online Cepat Cair",
-      "title": "Cara Mengenali Pinjol yang Aman dan Legal",
-      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F1%20Cara%20Mengenali%20Pinjol%20yang%20Aman%20dan%20Legal.html?alt=media&token=9c1d7f06-06d2-4210-bd52-ea7ffefb705d",
-      "video": ""
-    },{
-      "id": 10,
-      "category": "Tips Pinjaman Online Cepat Cair",
-      "title": "Tips Memilih Pinjol Bunga Rendah Terbaik",
-      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F2%20Tips%20Memilih%20Pinjol%20Bunga%20Rendah%20Terbaik.html?alt=media&token=1599c873-75f7-4178-a300-0ffe83f616f6",
-      "video": ""
-    },{
       "id": 3,
       "category": "Tips Pinjaman Online Cepat Cair",
       "title": "Tips Pinjol Galbay",
@@ -130,18 +130,18 @@
       "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F8%20Daftar%20Lender%20Pinjaman%20Online%20Tenor%20Panjang%20di%20Indonesia.html?alt=media&token=e4f89cab-b9c2-4867-b774-da37000a1e31",
       "video": ""
     },{
-      "id": 1,
+      "id": 9,
       "category": "Tips Pinjaman Online Cepat Cair",
-      "title": "Tentang Aplikasi DanaMu",
+      "title": "Cara Mengenali Pinjol yang Aman dan Legal",
       "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F9%20aplikasi%20danamu.html?alt=media&token=c118931c-56f1-424e-aa53-4a48d371b8d8",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F1%20Cara%20Mengenali%20Pinjol%20yang%20Aman%20dan%20Legal.html?alt=media&token=9c1d7f06-06d2-4210-bd52-ea7ffefb705d",
       "video": ""
     },{
-      "id": 2,
+      "id": 10,
       "category": "Tips Pinjaman Online Cepat Cair",
-      "title": "Cara Daftar Aplikasi DanaMu",
+      "title": "Tips Memilih Pinjol Bunga Rendah Terbaik",
       "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2Fbannertipscair.png?alt=media&token=2e7d9475-5d52-4ca1-a525-18bb47b5ba7b",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F10%20cara%20daftar%20danamu.html?alt=media&token=0bc381b0-824b-4462-9a0f-8da66394efa7",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/bungarendah%2F2%20Tips%20Memilih%20Pinjol%20Bunga%20Rendah%20Terbaik.html?alt=media&token=1599c873-75f7-4178-a300-0ffe83f616f6",
       "video": ""
     }
 	
